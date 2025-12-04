@@ -5,12 +5,3 @@ It helps beginners understand how to work with text data using Python's built-in
 This repository contains 8 string-based Python problems, which are part of a larger 50-question Python practice set. 
 These questions belong to the Strings section (Q11 to Q18) of the full set.
 
-📌 Questions
-1. Input a string and count vowels, consonants, digits, and spaces.
-2. Check if a given string is a palindrome.
-3. Replace all spaces in a sentence with -.
-4. Print characters at even index positions.
-5. Input a sentence and print each word on a new line.
-6. Count occurrences of a specific character in a string.
-7. Find the longest word in a sentence.
-8. Remove duplicate characters from a string.
